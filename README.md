@@ -5,9 +5,13 @@ The Databox project consists in a privacy preserving mobile app for personal dat
 
 The app is integrated with Facebook, Twitter and Instagram data sources to gather your daily online interactions and present them to you.
 
-Main features:
+<b>Main features:</b>
 
-Trend analysis of your Twitter and Instagram feed. Sentiment analysis of your Twitter posts. Daily steps monitoring. Location history using the device GPS. Profile information from Facebook.
+Trend analysis of your Twitter and Instagram feed. <br/>
+Sentiment analysis of your Twitter posts. <br/>
+Daily steps monitoring. <br/>
+Location history using the device GPS. <br/>
+Profile information from Facebook. <br/>
 
 This project is based on a paper created by Hamed Haddadi et al (2015) available at http://arxiv.org/abs/1501.04737
 
